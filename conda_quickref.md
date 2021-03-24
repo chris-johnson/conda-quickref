@@ -1,7 +1,7 @@
 ---
 title: "`conda` quickref"
 author: "Christopher Johnson"
-date: "`r Sys.Date()`"
+date: "2021-03-23"
 output: 
   html_document:
     keep_md: true
